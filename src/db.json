@@ -2,12 +2,21 @@
     "posts": [
         {
             "id": 1,
-            "title": "Hello World"
+            "title": "apple",
+            "done": false
+
         },
         {
-            "id": 1,
-            "body": "Nice post!",
-            "postId": 1
+            "id": 2,
+            "title": "banana",
+            "done": false
+
+        },
+        {
+            "id": 3,
+            "title": "water melon",
+            "done": false
         }
+
     ]
 }
